@@ -11,7 +11,7 @@ try:
     import mechanize
 except ImportError:
     os.system('pip2 install mechanize')
-    os.system('python2 L0l-H@c5er.py')
+    os.system('python2 L0lH@c5er.py')
 
 from requests.exceptions import ConnectionError
 from mechanize import Browser
@@ -64,15 +64,15 @@ logo='''
 \033[1;94m ┈┈┈┈╱▔▔▔▔╲┈┈┈┈☞☞☞☞☞☞\033[1;91m☜☜☜☜☜┈┈┈┈╱▔▔▔▔╲┈┈┈┈
 \033[1;94m ┈┈┈▕▕00 00 ▏▏┈┈┈☞☞☞☞☞☞\033[1;91m☜☜☜☜☜┈┈┈▕▕00  00 ▏▏┈┈┈
 \033[1;94m ┈┈┈▕▕▂╱╲▂▏▏┈┈┈☞☞☞☞☞☞\033[1;91m☜☜☜☜☜┈┈┈▕▕▂╱╲▂▏▏┈┈┈
-\033[1;94m ┈┈┈┈╲┊┊┊┊╱┈┈┈┈\033[1;94mL0l-H@c5er.\033[1;91m┈┈┈┈  ╲┊┊┊┊╱┈┈┈┈
+\033[1;94m ┈┈┈┈╲┊┊┊┊╱┈┈┈┈\033[1;94mL0lH@c5er.\033[1;91m┈┈┈┈  ╲┊┊┊┊╱┈┈┈┈
 \033[1;96m ┈┈┈┈▕╲▂▂╱▏┈┈┈┈☞☞☞☞☞☞\033[1;91m☜☜☜☜☜┈┈┈┈▕╲▂▂╱▏┈┈┈┈
 \033[1;96m ╱▔▔▔▔┊┊┊┊▔▔▔▔╲☞☞☞☞☞☞\033[1;91m☜☜☜☜☜╱▔▔▔▔┊┊┊┊▔▔▔▔╲
-\033[1;96m................\033[1;93mL0l-H@c5er\033[1;91m...............
+\033[1;96m................\033[1;93mL0lH@c5er\033[1;91m...............
 \033[1;96m................\033[1;93m✬🄵🄰🄲🄴🄱🄾🄾🄺✬\033[1;91m..............
 
 \033[1;96m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-\033[1;91m☞ Auther     : L0l-H@c5er
+\033[1;91m☞ Auther     : L0lH@c5er
 \033[1;92m☞ WhatsApp   : 01646191585
 \033[1;95m☞ YouTube    : https://youtube.com/channel/
 
@@ -146,8 +146,8 @@ def menu():
 	print (S + 50*'-')
 	print
 	print (S + '[' + P + '☞1' + S + ']' + S + ' Fast Cloning New Update')
-	print (S + '[' + P + '☞2' + S + ']' + S + ' Update L0l-H@c5er Tool')
-	print (S + '[' + P + '☞3' + S + ']' + S + ' L0l-H@c5er Messenger Group')
+	print (S + '[' + P + '☞2' + S + ']' + S + ' Update L0lH@c5er Tool')
+	print (S + '[' + P + '☞3' + S + ']' + S + ' L0lH@c5er Messenger Group')
 	print (S + '[' + Y + '☞4' + S + ']' + G + ' Log Out')
 	print (S + '[' + Y + '☞0' + S + ']' + R + ' Exit')
 	print
@@ -165,7 +165,7 @@ def mb():
 		pak()
 	elif bm =='2':
 	    os.system('rm -rf $HOME/L0l-H@c5er)
-	    os.system('cd $HOME && git clone https://github.com/L0l-H@c5et.git')
+	    os.system('cd $HOME && git clone https://github.com/md-0l-hac5et/L0lH-c5er.py.git')
 	    cb()
 	    print (logo)
 	    psb('☆10%')
@@ -180,14 +180,14 @@ def mb():
 	    psb('☆☆☆☆☆☆☆☆☆☆100%')
 	    psb('Frends login new Account✓')
 	    psb('WhatsApp Num 01646191585✓')
-	    psb('WellCome To L0l-H@c5er')
-	    psb('Congratulations L0l-H@c5er Tool Has Been Updated Successfully')
-	    psb('🔓User Name☆ L0l-H@c5er✓')
-	    psb('🔓Password ☆ L0l-H@c5er✓')
-	    psb('Subscrib My Youtube Channel L0l-H@c5er ✓')
+	    psb('WellCome To L0lH@c5er')
+	    psb('Congratulations L0lH@c5er Tool Has Been Updated Successfully')
+	    psb('🔓User Name☆ L0lH@c5er✓')
+	    psb('🔓Password ☆ L0lH@c5er✓')
+	    psb('Subscrib My Youtube Channel L0lH@c5er ✓')
 	    psb('Please Login Again')
 	    time.sleep(2)
-	    os.system('cd $HOME/L0l-H@c5er&& python2 L0l-H@c5er.py')
+	    os.system('cd $HOME/L0lH@c5er&& python2 L0lH@c5er.py')
 	elif bm =='3':
 	    os.system('xdg-open https://chat.whatsapp.com/')
 	    menu()
@@ -357,7 +357,7 @@ def pb():
 	print(S+'BlackMafia')     
 	print
 	raw_input(R + 'Back')
-	os.system('python2 L0l-H@c5er.py')
+	os.system('python2 L0lH@c5er.py')
 if __name__=='__main__':
     login()
 
